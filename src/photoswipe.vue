@@ -18,7 +18,7 @@
           <button class='pswp__button pswp__button--fs'
             title='全画面表示'/>
           <button class='pswp__button pswp__button--zoom'
-            title='拡大縮小'/>
+            title='拡大・縮小'/>
           <div class='pswp__preloader'>
             <div class='pswp__preloader__icn'>
               <div class='pswp__preloader__cut'>
@@ -32,9 +32,9 @@
           <div class='pswp__share-tooltip'/>
         </div>
         <button class='pswp__button pswp__button--arrow--left'
-          title='次のページへ'/>
+          title='次へ'/>
         <button class='pswp__button pswp__button--arrow--right'
-          title='前のページへ'/>
+          title='前へ'/>
         <div class='pswp__caption'>
           <div class='pswp__caption__center'/>
         </div>
