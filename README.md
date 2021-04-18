@@ -11,7 +11,7 @@ NuxtまたはVue-Cliプロジェクトで使用するときには
 
 > "v-photoswipe": "git+https://github.com/emesh0620/v-photoswipe.git#master"
 
-としてください。
+としてください。（[参考](https://qiita.com/tmiame/items/9e1ad4438ff04efcf37e))
     
 既に[日本語化されてるバージョン](https://github.com/sootwork/v-photoswipe)もありますのでそちらもご参照ください。
 
